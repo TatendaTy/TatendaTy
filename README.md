@@ -1,17 +1,15 @@
 Hi there👋, I'm Tatenda!
 ---
-I believe in good health, strong coffee, and consistence in everything I do.
+I believe in good health, strong coffee, and consistency in everything I do.
 
 - 🔭 I’m currently working on something cool!
 - 👯 I’m looking to collaborate on web applications.
-- 🌿 I love hiking and trading
+- 🌿 I love hiking and analyzing commodity prices
 
 ---
 
 ### :hammer_and_wrench: Languages:
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus" alt="cplusplus" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
