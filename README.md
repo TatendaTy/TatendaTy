@@ -3,7 +3,7 @@ Hi there👋, I'm Tatenda!
 I believe in good health, strong coffee, and consistency in everything I do.
 
 - 🔭 I’m currently working on something cool!
-- 👯 I’m looking to collaborate on data science & data engineering projects.
+- 👯 I’m looking to collaborate on data analytics & data engineering projects.
 - 🌿 I love hiking and analyzing commodity prices
 
 ---
