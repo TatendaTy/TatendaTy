@@ -36,5 +36,3 @@ I believe in good health, strong coffee, and consistency in everything I do.
 </div>
 
 ---
-### 🔥: My stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tatendaty&layout=compact&theme=vision-friendly-dark)]
