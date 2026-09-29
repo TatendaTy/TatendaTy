@@ -36,7 +36,3 @@ I believe in good health, strong coffee, and consistency in everything I do.
 </div>
 
 ---
-
-```
-
-```
